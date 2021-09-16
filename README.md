@@ -5,6 +5,4 @@ Deployed on Vercel: https://netflix-clone-rouge.vercel.app/
 
 ![](img/netflix-clone-1.png)
 
-![](img/netflix-clone-1.png)
-
 
